@@ -10,6 +10,6 @@ A simple calculator web application built with HTML, CSS, and JavaScript.
 
 ## Tech Stack
 
-- **HTML** (51.8%) - Structure of the web page.
-- **CSS** (37.7%) - Styling for an attractive and responsive layout.
-- **JavaScript** (10.5%) - Logic for performing calculations and handling user interactions.
+- **HTML**  - Structure of the web page.
+- **CSS**  - Styling for an attractive and responsive layout.
+- **JavaScript**  - Logic for performing calculations and handling user interactions.
